@@ -1,0 +1,10 @@
+custom fifo = 3rd slide
+tlm -4th
+
+
+
+
+
+
+https://github.com/Bilal279/SCVP_Exercise
+https://github.com/TUK-SCVP/SCVP.artifacts
